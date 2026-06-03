@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             <span class="price-final">${prod.hargaDiskon}</span>
                             ${prod.stok ? `<span class="stock-badge ${stokNum <= 5 ? 'stock-low' : 'stock-safe'}">${prod.stok}</span>` : ''}
                         </div>
-                        <a href="https://wa.me/087846729531?text=halo+atmin+mau+order+boleh" target="_blank" class="btn-buy-now">
+                        <a href="https://wa.me/+6287846729531?text=halo+atmin+mau+order+boleh" target="_blank" class="btn-buy-now">
                             <i class="fab fa-whatsapp"></i> Beli Sekarang
                         </a>
                     </div>
