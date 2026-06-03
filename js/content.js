@@ -35,7 +35,7 @@ const STRATEGIC_CONTENT = {
 
     // 2. PRODUCTS DATA (Marketplace Premium Store)
     products: [
-        {
+        {   
             id: 1,
             tag: "Skin Premium",
             rating: "4.8",
@@ -45,9 +45,9 @@ const STRATEGIC_CONTENT = {
             diskon: "0%",
             hargaDiskon: "Rp 5.000.00 - Rp 70.000.00",
             badgeText: "MINECRAFT SKIN PREMIUM ALL REQ REFERENCE 64x - 512x",
-            badgeType: "instant", // untuk ikon kilat/proses cepat
-            stok: "Sisa 5",
-            image: "https://cdn.discordapp.com/attachments/1501970188067799231/1511664439534030941/IMG-20260218-WA0015.jpg?ex=6a2146b7&is=6a1ff537&hm=a090826c074174f52e918669dc394a78f21a3dd8eb9954301d9e1973897f97a2&" // Ganti dengan path gambar Anda
+            badgeType: "slow", // untuk ikon kilat/proses cepat
+            stok: " ",
+            image: "https://cdn.discordapp.com/attachments/1501970188067799231/1511662775900962896/quality_restoration_20260411150912295.jpg?ex=6a21452b&is=6a1ff3ab&hm=5c6852f77a3501a43c70e22898560c4f9df3f24fe816ca9041f2cbd6cce268e7&" // Ganti dengan path gambar Anda
         },
         {
             id: 2,
@@ -89,7 +89,7 @@ const STRATEGIC_CONTENT = {
             diskon: "0%",
             hargaDiskon: "Rp 8.000.00 - Rp 1.000.000.00",
             badgeText: "BISA REQUEST ANIMASI DAN SCENENYA!",
-            badgeType: "slow", // untuk ikon kilat/proses cepat
+            badgeType: "very-slow", // untuk ikon kilat/proses cepat
             stok: "Sisa 3",
             image: "https://cdn.discordapp.com/attachments/1348278857307783301/1511345310780358766/Tak_berjudul246_20260602192448.png?ex=6a20c641&is=6a1f74c1&hm=b6f20af54ac54466185c664f227eccb808b5db9b3e613486cd88129e28c3f421&" // Ganti dengan path gambar Anda
         },
