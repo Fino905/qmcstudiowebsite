@@ -123,6 +123,21 @@ const STRATEGIC_CONTENT = {
             stok: "",
             image: "https://cdn.discordapp.com/attachments/1501970188067799231/1511661705497677895/WA_1780478600567.jpg?ex=6a21442b&is=6a1ff2ab&hm=094949ab46847cc6df525840d4ceba54addc00d2c25a31b8f75defc14fcb0f0e&"
         },
+        {
+            id: 7,
+            tag: "Build",
+            tagAlt: "Building", // Dual tag seperti di gambar kedua
+            rating: "4.9",
+            terjual: "100+ terjual",
+            title: "Building Minecraft Kustom",
+            hargaAsli: "Rp 50.000.00 - Rp 5.000.000.00",
+            diskon: "0%",
+            hargaDiskon: "Rp 50.000.00 - Rp 5.000.000.00",
+            badgeText: "Custom Building Minecraft Kustom, Bisa Request Desain Dan Style Sesuai Keinginan!",
+            badgeType: "very-slow", // untuk ikon pembuatan cepat
+            stok: "",
+            image: "https://cdn.discordapp.com/attachments/1348278857307783301/1511345551071907870/IMG-20260321-WA0079.jpg?ex=6a20c67a&is=6a1f74fa&hm=e2810778639e7fb3c7c975a68d64318fe7bb7fe5df27e4c8ada7680a7aa846d8&"
+        }
     ],
 
     // 3. STAFF / MEMBERS DATA
