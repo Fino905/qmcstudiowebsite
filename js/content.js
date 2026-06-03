@@ -200,7 +200,7 @@ const STRATEGIC_CONTENT = {
         {
             name: "Redonkai",
             role: "Animator Prisma 3D",
-            avatar: "https://cdn.discordapp.com/attachments/1506110494023356474/1511359440773709854/Tak_berjudul245_20260602202147.png?ex=6a202aaa&is=6a1ed92a&hm=535e4d33b08f52d58872349c51f4fdccb173557296445da4cff0310906a83fc5&"
+            avatar: "https://cdn.discordapp.com/attachments/1501970188067799231/1511712435927519362/IMG-20260603-WA0060.jpg?ex=6a21736a&is=6a2021ea&hm=42053adfb5b8d2ad3a3c675aaee3c8dc30ac9ff5b66a875eaa5484b365fc7499&"
         },
         {
             name: "Ke4izen",
