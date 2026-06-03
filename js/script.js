@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const stokNum = parseInt((prod.stok || '').replace('Sisa ', '')) || 99;
                 const badgeTypeClass = prod.badgeType === 'instant' ? 'status-instant' : prod.badgeType === 'fast' ? 'status-fast' : 'status-slow';
                 const badgeIcon = prod.badgeType === 'instant' ? 'fas fa-bolt' : prod.badgeType === 'fast' ? 'fas fa-clock' : 'fas fa-hourglass-half';
-                const badgeLabel = prod.badgeType === 'instant' ? 'PROSES INSTAN' : prod.badgeType === 'fast' ? 'PEMBUATAN CEPAT' : 'AGAK LAMBAT';
+                const badgeLabel = prod.badgeType === 'instant' ? 'PROSES INSTAN' : prod.badgeType === 'fast' ? 'PEMBUATAN CEPAT' : prod.badgeType === 'slow' ? 'AGAK LAMBAT' : prod.badgeType === 'very-slow' ? 'PEMBUATAN SANGAT LAMBAT' : '  ';
                 return `
                 <div class="card-product" style="transition-delay: ${(i % 3) * 0.08}s">
                     <div class="product-thumb">
