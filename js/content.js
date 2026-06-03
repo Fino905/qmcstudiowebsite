@@ -190,7 +190,7 @@ const STRATEGIC_CONTENT = {
         {
             name: "Angga",
             role: "JJ Maker",
-            avatar: "https://i.pinimg.com/736x/ff/9f/86/ff9f86fd3b680615afd79396858c3f57.jpg"
+            avatar: "https://cdn.discordapp.com/attachments/1348278857307783301/1511708808047497357/IMG-20260603-WA0024.jpg.jpeg?ex=6a21700a&is=6a201e8a&hm=193ac89f6202203735d5f73ad8e56e78e832ccb64ca3ec50239e8af725551dbe&"
         },
         {
             name: "Andi",
