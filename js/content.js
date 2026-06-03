@@ -175,7 +175,7 @@ const STRATEGIC_CONTENT = {
         {
             name: "Regarbuilds",
             role: "Builder",
-            avatar: "https://i.pinimg.com/736x/ff/9f/86/ff9f86fd3b680615afd79396858c3f57.jpg"
+            avatar: "https://cdn.discordapp.com/attachments/1501970188067799231/1511712435927519362/IMG-20260603-WA0060.jpg?ex=6a21736a&is=6a2021ea&hm=42053adfb5b8d2ad3a3c675aaee3c8dc30ac9ff5b66a875eaa5484b365fc7499&"
         },
         {
             name: "Ryuraviel",
@@ -200,7 +200,7 @@ const STRATEGIC_CONTENT = {
         {
             name: "Redonkai",
             role: "Animator Prisma 3D",
-            avatar: "https://cdn.discordapp.com/attachments/1501970188067799231/1511712435927519362/IMG-20260603-WA0060.jpg?ex=6a21736a&is=6a2021ea&hm=42053adfb5b8d2ad3a3c675aaee3c8dc30ac9ff5b66a875eaa5484b365fc7499&"
+            avatar: "https://cdn.discordapp.com/attachments/1506110494023356474/1511359440773709854/Tak_berjudul245_20260602202147.png?ex=6a20d36a&is=6a1f81ea&hm=db2b7abd6b483d61ff6e2cf60f4121dbf41393a61410de621b78cae1e8fac3c2&"
         },
         {
             name: "Ke4izen",
